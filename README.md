@@ -1,7 +1,7 @@
 
-# Expense Tracker Web Application - ReactJS
+# 💸Expense Tracker Web Application - ReactJS
 
-Welcome to my Expense Tracker Web Application built with ReactJS! This intuitive web app leverages the power of ReactJS, utilizing fundamental React concepts such as components, props, states, and data mapping.
+👻 Welcome to my Expense Tracker Web Application built with ReactJS! This intuitive web app leverages the power of ReactJS, utilizing fundamental React concepts such as components, props, states, and data mapping.
 
 # Key Features:
 
